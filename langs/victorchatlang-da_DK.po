@@ -1,0 +1,113 @@
+# Peter Serop <suppport@victorchat.dk>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: victorchat\n"
+"POT-Creation-Date: 2014-11-19 13:22+0530\n"
+"PO-Revision-Date: 2014-11-27 13:12+0200\n"
+"Last-Translator: Peter Serop <suppport@victorchat.dk>\n"
+"Language-Team: VictorChat Team\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;_e;include\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: VictorChat.php:47
+msgid "VictorChat"
+msgstr "VictorChat"
+
+#: VictorChat.php:48
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: VictorChat.php:48
+msgid "VictorChat_settings"
+msgstr "VictorChat_indstillinger"
+
+#: VictorChat.php:53
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Du har ikke tilladelse til, at få adgang til siden. Opdater siden og "
+"plugin´et vil virke."
+
+#: VictorChat.php:67
+msgid ""
+"<span style=\"color:#52a634\">Changes have been saved.</span> <strong>Start "
+"using VictorChat.</strong>"
+msgstr ""
+"<span style = \" color: # 52a634 \"> Ændringerne blev gemt </span> <strong> Du "
+"kan nu bruge VictorChat </strong>"
+
+#: VictorChat.php:73
+msgid "Getting Started with VictorChat"
+msgstr "Kom i gang med VictorChat"
+
+#: VictorChat.php:74
+msgid "Step 1"
+msgstr "Trin 1"
+
+#: VictorChat.php:75
+msgid ""
+"To add VictorChat onto your WordPress website, first <a href=\"http://www."
+"victorchat.dk/signup.php?lang=en\" target=\"_blank\" title=\"Get a FREE "
+"VictorChat account\">Sign up</a> for a FREE account"
+msgstr ""
+"For at tilføje VictorChat til din WordPress webside skal du først <a "
+"href=\"http://www.victorchat.dk/signup.php?lang=dk\" target=\"_blank\" "
+"title=\"Opret en GRATIS VictorChat profil\"> Oprette </a> en GRATIS profil"
+
+#: VictorChat.php:76
+msgid "Step 2"
+msgstr "Trin 2"
+
+#: VictorChat.php:77
+msgid ""
+"<a href=\"http://www.victorchat.dk/login.php?lang=en\" target=\"_blank\" "
+"title=\"Login\">Log into</a> your VictorChat account"
+msgstr ""
+"<a href=\"http://www.victorchat.dk/login.php?lang=en\" target=\"_blank\" "
+"title=\"Login\"> Log ind </a> på din VictorChat profil"
+
+#: VictorChat.php:78
+msgid "Step 3"
+msgstr "Trin 3"
+
+#: VictorChat.php:79
+msgid ""
+"Click <strong>Code & Setup</strong> in the left menu and copy the HTML code "
+"from there</p>"
+msgstr ""
+"Klik < strong> Kode & Opsætning </ strong> i menuen til venstre og kopiere "
+"HTML koden herfra </ p>"
+
+#: VictorChat.php:80
+msgid "Step 4"
+msgstr "Trin 4"
+
+#: VictorChat.php:81
+msgid "Paste the HTML code into the below field"
+msgstr "Indsæt HTML koden i feltet herunder"
+
+#: VictorChat.php:82
+msgid "Step 5"
+msgstr "Trin 5"
+
+#: VictorChat.php:85
+msgid ""
+"If you need help or have questions regarding this plugin, please contact "
+"VictorChat"
+msgstr ""
+"Hvis du har brug for hjælp eller har spørgsmål vedrørende dette plugin, så "
+"kontakt venligst VictorChat"
+
+#: VictorChat.php:85
+msgid "support"
+msgstr "support"
+
+#: VictorChat.php:87
+msgid "Save"
+msgstr "Gem"
